@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.con {
+  widh: 60vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: colunm;
+  align-items: center;
+  background-color: aliceblue;
+}
+.sub-con {
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: colunm;
+  align-items: center;
+  background-color: indigo;
+}
+.name {
+  display: flex;
+}
+.namecolo {
+  background-color: dimgrey;
+  padding: 20px;
+  border-radius: 50px;
+}
+.balence {
+  display: flex;
+  justify-content: space-between;
+  color: cornflowerblue;
+}
